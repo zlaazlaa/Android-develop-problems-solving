@@ -20,3 +20,7 @@ backgroundTint
 
 handler;   Looper.prepare()和Lopper.loop()
 
+##### 软键盘把BottomNavigation顶上去了
+
+对应的activity在清单中添加`android:windowSoftInputMode="adjustPan"`
+
